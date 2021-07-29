@@ -1,0 +1,10 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "M, Y"
+    given-names: "J, X"
+    orcid: "https://orcid.org/0000-0002-8079-7608"
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+...
